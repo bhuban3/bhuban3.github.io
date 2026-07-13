@@ -7,3 +7,18 @@
         "BLED" 0,
         "SCAN" 0;
 }
+section{padding:6rem 0;}
+  .section-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:0.8rem;
+    color:var(--thread);
+    text-transform:uppercase;
+    letter-spacing:0.16em;
+    margin-bottom:0.4rem;
+  }
+  .section-title{
+    font-size:2.1rem;
+    margin-bottom:2.2rem;
+    border-bottom:1px solid #16182122;
+    padding-bottom:1rem;
+  }
